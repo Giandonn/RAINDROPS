@@ -1,7 +1,7 @@
 import webbrowser as wb
 import random as rd
 while True:
-        x = int(input("escolha entre 1 e 4 para flutuar:"))
+        x = int(input("escolha entre 1 a 4 para flutuar:"))
         if x == 1:
             wb.open("https://www.youtube.com/watch?v=2WqI50mc7Jo")
         elif x == 2:
