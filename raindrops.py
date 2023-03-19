@@ -1,5 +1,4 @@
 import webbrowser as wb
-import random as rd
 while True:
         x = int(input("escolha entre 1 a 4 para flutuar:"))
         if x == 1:
